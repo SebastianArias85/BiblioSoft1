@@ -1,0 +1,3 @@
+El usuario y el password para ingresar como administrador es  
+
+Usuario y Clave: admin
